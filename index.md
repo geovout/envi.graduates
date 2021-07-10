@@ -25,6 +25,14 @@
   <input type="text" id="fname" name="fname"><br>
   <label for="fathern">Πατρώνυμο:</label><br>
   <input type="text" id="fathern" name="fathern"><br>
+  <label for="afm">ΑΦΜ:</label><br>
+  <input type="text" id="afm" name="afm"><br>
+  <label for="ekda">Έκδουσα αρχή:</label><br>
+  <input type="text" id="ekda" name="ekda"><br>
+  <label for="email">email:</label><br>
+  <input type="email" id="email" name="email" class="required"><br>
+  <input type="file" name="file" id="file" accept=".pdf" class="required" /><br>
+
   
  <input type="submit"> 
 </form>
