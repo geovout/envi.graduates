@@ -4,11 +4,11 @@
 <!-- modify this form HTML and place wherever you want your form -->
 
   
-<form method="POST" action="https://formspree.io/FORM_ID" enctype="multipart/form-data">
- <input type="email" name="email" placeholder="Το email σας">
-<input type="lastname" name="lastname" placeholder="Επώνυμο">
- <textarea name="message" placeholder="Details of your problem"></textarea>
- <input type="file" name="attachment" accept="image/png, image/jpeg">
+<form method="POST" action="https://formspree.io/FORM_ID" enctype="multipart/form-data"><br>
+ <input type="email" name="email" placeholder="Το email σας"><br>
+<input type="lastname" name="lastname" placeholder="Επώνυμο"><br>
+ <textarea name="message" placeholder="Details of your problem"></textarea><br>
+ <input type="file" name="attachment" accept="image/png, image/jpeg"><br>
  <button type="submit">Send Test</button>
 </form>
   
@@ -20,7 +20,7 @@
 <form>
 
   <label for="lname">Επώνυμο:</label><br>
-  <input type="text" id="lname" name="lname">
+  <input type="text" id="lname" name="lname"><br>
   <label for="fname">Όνομα:</label><br>
   <input type="text" id="fname" name="fname"><br>
   <label for="fathern">Πατρώνυμο:</label><br>
