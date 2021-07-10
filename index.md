@@ -49,9 +49,3 @@
   <source src="http://geovout.synology.me:5000/vs/sharing/fWomFcKa#!bW92aWUtMQ==">
 </video>
 
-<iframe 
-        <video controls>
-  <source src="http://geovout.synology.me:5000/vs/sharing/fWomFcKa#!bW92aWUtMQ==" type="video/m4v">
-</video>
-        title="pmlaw"></iframe>
-
