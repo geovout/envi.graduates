@@ -39,7 +39,8 @@
   </label>
   
 <form method="POST" action="https://formspree.io/FORM_ID" enctype="multipart/form-data">
- <input type="email" name="email" placeholder="Your email">
+ <input type="email" name="email" placeholder="Το email σας">
+<input type="lastname" name="lastname" placeholder="Επώνυμο">
  <textarea name="message" placeholder="Details of your problem"></textarea>
  <input type="file" name="attachment" accept="image/png, image/jpeg">
  <button type="submit">Send Test</button>
