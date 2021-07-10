@@ -38,10 +38,12 @@
     <input type="αρχή" name="_replyto">
   </label>
   
-  <label>
-    Your file:
-    <input type="file" name="upload">
-  </label>
+<form method="POST" action="https://formspree.io/FORM_ID" enctype="multipart/form-data">
+ <input type="email" name="email" placeholder="Your email">
+ <textarea name="message" placeholder="Details of your problem"></textarea>
+ <input type="file" name="attachment" accept="image/png, image/jpeg">
+ <button type="submit">Send Test</button>
+</form>
   
   <button type="submit">Send</button>
 </form>
