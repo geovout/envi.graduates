@@ -43,8 +43,10 @@
 
 ## Βίντεο από τη συνάντηση με τη Δικηγόρο κα Μ. Παναγοπούλου
 
+<iframe width="560" height="315" src="http://geovout.synology.me:5000/vs/sharing/fWomFcKa#!bW92aWUtMQ==" allowfullscreen></iframe>
+
 <video controls>
-  <source src="http://geovout.synology.me:5000/vs/sharing/fWomFcKa#!bW92aWUtMQ==" type="video/m4v">
+  <source src="http://geovout.synology.me:5000/vs/sharing/fWomFcKa#!bW92aWUtMQ==">
 </video>
 
 <iframe 
