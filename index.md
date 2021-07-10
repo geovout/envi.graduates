@@ -8,8 +8,28 @@
   enctype="multipart/form-data"
 >
   <label>
-    Your email:
+    email:
     <input type="email" name="_replyto">
+  </label>
+  <label>
+    Επώνυμο:
+    <input type="Επώνυμο" name="_replyto">
+  </label>
+  <label>
+    Όνομα:
+    <input type="Όνομα" name="_replyto">
+  </label>  
+    <label>
+    Έτος Αποφοίτησης:
+    <input type="ετος" name="_replyto">
+  </label>
+    <label>
+    ΑΦΜ:
+    <input type="αφμ" name="_replyto">
+  </label>
+    <label>
+    Έκδουσα αρχή:
+    <input type="αρχή" name="_replyto">
   </label>
   <label>
     Your file:
