@@ -2,41 +2,7 @@
 
 
 <!-- modify this form HTML and place wherever you want your form -->
-<form
-  action="https://formspree.io/f/mayadyop"
-  method="POST"
-  enctype="multipart/form-data"
->
-  <label>
-    email:
-    <input type="email" name="_replyto">
-  </label>
-  \\newline
-  
-  <label>
-    Επώνυμο:
-    <input type="Επώνυμο" name="_replyto">
-  </label>
-  
-  <label>
-    Όνομα:
-    <input type="Όνομα" name="_replyto">
-  </label>  
-  
-    <label>
-    Έτος Αποφοίτησης:
-    <input type="ετος" name="_replyto">
-  </label>
-  
-    <label>
-    ΑΦΜ:
-    <input type="αφμ" name="_replyto">
-  </label>
-  
-    <label>
-    Έκδουσα αρχή:
-    <input type="αρχή" name="_replyto">
-  </label>
+
   
 <form method="POST" action="https://formspree.io/FORM_ID" enctype="multipart/form-data">
  <input type="email" name="email" placeholder="Το email σας">
