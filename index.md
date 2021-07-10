@@ -11,6 +11,7 @@
     email:
     <input type="email" name="_replyto">
   </label>
+  \\newline
   
   <label>
     Επώνυμο:
